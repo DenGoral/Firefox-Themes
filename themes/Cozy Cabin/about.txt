@@ -1,0 +1,11 @@
+Theme: Cozy Cabin
+
+Wallpaper source:
+https://github.com/orangci/walls-catppuccin-mocha
+
+Wallpaper:
+[Exact wallpaper filename, if available]
+
+Credits:
+Wallpaper belongs to its original creator.
+See the source repository for additional information.
